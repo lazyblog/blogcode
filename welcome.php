@@ -7,6 +7,7 @@
 <?php
 if($_GET["name"]=="hema")
 header( 'Location: http://192.168.1.100/h/' );
+echo 'github is awesome';
 ?>
 
 </body>
